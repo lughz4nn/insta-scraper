@@ -30,15 +30,15 @@ $ pip3 install -r py_requirements.txt
 ## Use
 ```console
 # You have to change the path of the chromedriver in the file 'main.py'
-cd insta-scraper
-python3 main.py
+$ cd insta-scraper
+$ python3 main.py
 ```
 
 
 ## Update the repository
 ```console
-cd insta-scraper
-git pull
+$ cd insta-scraper
+$ git pull
 ```
 
 <br/>
